@@ -20,7 +20,7 @@ Passionate about developing cross-platform apps with Flutter and open to excitin
 
 ## 👨‍💻 Work Experience
 
-#### Freelance Developer - <a href="https://teamcoda.com" target="_blank">TeamCoda</a> (November 2020 - Present) 
+#### Flutter Developer - <a href="https://teamcoda.com" target="_blank">TeamCoda</a> (November 2020 - Present) 
 Collaborate on Flutter development tasks, implement testing, and resolve reported issues promptly.
 
 #### Senior Android Developer - <a href="https://uxcam.com" target="_blank">UXCam</a> (November 2020 - December 2021)
