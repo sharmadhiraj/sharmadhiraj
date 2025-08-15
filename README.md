@@ -59,4 +59,6 @@ Native Android app for convenient medicine ordering through phones and public ki
 
 ## 📬 Get in Touch
 
-🚀 Let's create wonders together! Connect with me on <a href="https://www.linkedin.com/in/dhiraj-sharma-84b7ba138/" target="_blank">LinkedIn</a> or drop a <a href="mailto:sharmadhiraj.np@gmail.com" target="_blank">Message</a>. Looking forward to it! 🚀
+🚀 Let's create wonders together! Connect with me on <a href="https://www.linkedin.com/in/dhiraj-sharma-84b7ba138/" target="_blank">LinkedIn</a> or drop a <a href="mailto:sharmadhiraj.np@gmail.com" target="_blank">Message</a>.
+
+Looking forward to it! 🚀
